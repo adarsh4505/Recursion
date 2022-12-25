@@ -4,7 +4,7 @@ public class Main {
     public static void num(int n){
         if(n==0)
             return;
-        System.out.println(n);
+        System.out. println(n);
 
         num(n-1);
     }
