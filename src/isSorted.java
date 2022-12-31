@@ -9,7 +9,7 @@ public class isSorted {
            return false;
         }
 
-            return Sorted(arr, idx+1);
+        return Sorted(arr, idx+1);
 
     }
     public static void main(String[] args){
